@@ -1,7 +1,7 @@
 {
   "name": "nest-cn-doc",
   "version": "2.0.0",
-  "description": "nestjs chinese document",
+  "description": "nestJs chinese document",
   "license": "MIT",
   "type": "module",
   "scripts": {
